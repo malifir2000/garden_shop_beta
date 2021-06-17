@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240188801227",
+    "project_id": "garden-shop-beta",
+    "storage_bucket": "garden-shop-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240188801227:android:1d9413e1cb6b066dcc9b4e",
+        "android_client_info": {
+          "package_name": "com.example.garden_shop_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240188801227-1uj97re6fivass7g1i5q805kn6jrg0v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.garden_shop_beta",
+            "certificate_hash": "684a6f339624ac98c110d5f78eed7484a57630f6"
+          }
+        },
+        {
+          "client_id": "240188801227-kaajp23ssb2bm0e5vl5adbpn902j278l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDszL2ToyaWs2ZW3H9ogDy8UGYoTVBUzFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240188801227-kaajp23ssb2bm0e5vl5adbpn902j278l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
